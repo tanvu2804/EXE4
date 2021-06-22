@@ -1,14 +1,12 @@
-//type=4 là công việc hoàn thành quá hạn type=0 công việc chưa làm //type=1 là công việc đan làm //type=2 công việc quá hạn //type=3 công việc hoàn thành
-//là công việc của tôi
 {
     "ListMyWork": [
         {
-            "EndDay": "2021-06-08T00:00:00",//ngày kết thúc
-            "NameWork": "sdsfsdfd",//tên công việc
-            "StartDay": "2021-06-08T00:00:00",//ngày bắt đầu
+            "EndDay": "2021-06-08T00:00:00",
+            "NameWork": "sdsfsdfd",
+            "StartDay": "2021-06-08T00:00:00",
             "NguoiGiao": "Hiếu Nguyễn Quốc",
-            "ListWorkDetail": [],//Chi tiết tên công việc
-            "TypeComplete": null,//công việc không chấp nhận
+            "ListWorkDetail": [],
+            "TypeComplete": null,
             "TypeCompletedNote": null,
             "DateCongViec": null,
             "Date": null
@@ -17,7 +15,7 @@
             "EndDay": "2021-05-30T00:00:00",
             "NameWork": "Test nút lưu",
             "StartDay": "2021-05-29T00:00:00",
-            "NguoiGiao": "Hiếu Nguyễn Quốc",//tên người giao
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
             "ListWorkDetail": [
                 "liệt kê nhiên liệu",
                 "xây dựng",
@@ -34,9 +32,9 @@
                 "truongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtr"
             ],
             "TypeComplete": 4,
-            "TypeCompletedNote": "Công Việc hoàn thành quá hạn",//chú thích
-            "DateCongViec": "Quá Hạn 15 ngày",//hiển thị số ngày quá hạn
-            "Date": 15 //hiển thị số ngày quá hạn
+            "TypeCompletedNote": "Công Việc hoàn thành quá hạn",
+            "DateCongViec": "Quá Hạn 15 ngày",
+            "Date": 15
         },
         {
             "EndDay": "2021-04-25T00:00:00",
