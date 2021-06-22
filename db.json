@@ -1,0 +1,377 @@
+{
+    "ListMyWork": [
+        {
+            "EndDay": "2021-06-08T00:00:00",
+            "NameWork": "sdsfsdfd",
+            "StartDay": "2021-06-08T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": null,
+            "TypeCompletedNote": null,
+            "DateCongViec": null,
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-30T00:00:00",
+            "NameWork": "Test nút lưu",
+            "StartDay": "2021-05-29T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [
+                "liệt kê nhiên liệu",
+                "xây dựng",
+                "liệt kê nhiên liệu",
+                "xây dựng",
+                "liệt kê nhiên liệu",
+                "xây dựng",
+                "truongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtr",
+                "truongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtr",
+                "truongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtr",
+                "truongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtr",
+                "truongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtr",
+                "truongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtr",
+                "truongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtr"
+            ],
+            "TypeComplete": 4,
+            "TypeCompletedNote": "Công Việc hoàn thành quá hạn",
+            "DateCongViec": "Quá Hạn 15 ngày",
+            "Date": 15
+        },
+        {
+            "EndDay": "2021-04-25T00:00:00",
+            "NameWork": "sxczxczxczx",
+            "StartDay": "2021-07-02T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [
+                "3fg4",
+                "xây dựng",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": null,
+            "NameWork": "abc hoa mơi tạo",
+            "StartDay": null,
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": "2021-07-24T00:00:00",
+            "NameWork": "xay dung ki tuc xa",
+            "StartDay": "2021-05-19T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": null,
+            "TypeCompletedNote": null,
+            "DateCongViec": null,
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-21T00:00:00",
+            "NameWork": "Triễn khai kế hoạch thiết kết website ",
+            "StartDay": "2021-05-19T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-20T00:00:00",
+            "NameWork": "xây dựng tòa nhà",
+            "StartDay": "2021-05-19T08:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-22T00:00:00",
+            "NameWork": "xây dựng thiết kế",
+            "StartDay": "2021-05-19T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": null,
+            "TypeCompletedNote": null,
+            "DateCongViec": null,
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-18T08:00:00",
+            "NameWork": "xây dựng thiết kế Trung râm anh ngữ",
+            "StartDay": "2020-02-15T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": "2021-06-12T00:00:00",
+            "NameWork": "Chắt test Chức Năng Chat pppppppp",
+            "StartDay": "2021-06-12T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [
+                "truongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruongtruong",
+                "Truong1"
+            ],
+            "TypeComplete": 4,
+            "TypeCompletedNote": "Công Việc hoàn thành quá hạn",
+            "DateCongViec": "Quá Hạn 2 ngày",
+            "Date": 2
+        }
+    ],
+
+    "ListCongViecToiGIao": [
+        {
+            "EndDay": "2021-06-01T13:00:00",
+            "NameWork": "Triễn khai thiết kế giao diện",
+            "StartDay": "2021-06-01T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [
+                "Công Đoạn 1",
+                "Công Đoạn 2",
+                "Thiết kế giao diện mokup",
+                "Giao diện photoshop"
+            ],
+            "TypeComplete": 2,
+            "TypeCompletedNote": "Công việc quá hạn",
+            "DateCongViec": "Quá Hạn 13 ngày",
+            "Date": 13
+        },
+        {
+            "EndDay": "2021-05-30T00:00:00",
+            "NameWork": "Triễn khai kế hoạch thiết kết website ",
+            "StartDay": "2021-05-26T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [
+                "Công Đoạn 1",
+                "Công Đoạn 2"
+            ],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-29T00:00:00",
+            "NameWork": "Triễn khai kế hoạch thiết kết website ",
+            "StartDay": "2021-05-25T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-22T00:00:00",
+            "NameWork": "Triễn khai thiết kế giao diện",
+            "StartDay": "2021-05-21T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 2,
+            "TypeCompletedNote": "Công việc quá hạn",
+            "DateCongViec": "Quá Hạn 23 ngày",
+            "Date": 23
+        },
+        {
+            "EndDay": "2021-05-21T00:00:00",
+            "NameWork": "Triễn khai kế hoạch thiết kết website ",
+            "StartDay": "2021-05-19T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 4,
+            "TypeCompletedNote": "Công Việc hoàn thành quá hạn",
+            "DateCongViec": "Quá Hạn 24 ngày",
+            "Date": 24
+        },
+        {
+            "EndDay": "2021-05-20T00:00:00",
+            "NameWork": "xây dựng tòa nhà",
+            "StartDay": "2021-05-19T08:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 4,
+            "TypeCompletedNote": "Công Việc hoàn thành quá hạn",
+            "DateCongViec": "Quá Hạn 25 ngày",
+            "Date": 25
+        },
+        {
+            "EndDay": "2021-05-20T00:00:00",
+            "NameWork": "xây dựng tòa nhà",
+            "StartDay": "2021-05-19T08:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": null,
+            "TypeCompletedNote": null,
+            "DateCongViec": null,
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-18T08:00:00",
+            "NameWork": "xây dựng thiết kế Trung râm anh ngữ",
+            "StartDay": "2020-02-15T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": null,
+            "TypeCompletedNote": null,
+            "DateCongViec": null,
+            "Date": null
+        },
+        {
+            "EndDay": null,
+            "NameWork": "xây dựng thiết kế Trung râm anh ngữ",
+            "StartDay": null,
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": null,
+            "TypeCompletedNote": null,
+            "DateCongViec": null,
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-19T10:00:00",
+            "NameWork": "Nâng cấp chức nâng , sửa đổi giao diện người dùng và quản trị viên",
+            "StartDay": "2021-05-18T08:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 4,
+            "TypeCompletedNote": "Công Việc hoàn thành quá hạn",
+            "DateCongViec": "Quá Hạn 26 ngày",
+            "Date": 26
+        }
+    ],
+
+    "ListConViecToiTheoDoi": [
+        {
+            "EndDay": "2021-06-01T13:00:00",
+            "NameWork": "Triễn khai thiết kế giao diện",
+            "StartDay": "2021-06-01T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [
+                "Công Đoạn 1",
+                "Công Đoạn 2",
+                "Thiết kế giao diện mokup",
+                "Giao diện photoshop"
+            ],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-22T00:00:00",
+            "NameWork": "Triễn khai thiết kế giao diện",
+            "StartDay": "2021-05-21T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-21T00:00:00",
+            "NameWork": "Triễn khai kế hoạch thiết kết website ",
+            "StartDay": "2021-05-19T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-21T00:00:00",
+            "NameWork": "Triễn khai kế hoạch thiết kết website ",
+            "StartDay": "2021-05-19T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-20T00:00:00",
+            "NameWork": "xây dựng tòa nhà",
+            "StartDay": "2021-05-19T08:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-20T00:00:00",
+            "NameWork": "xây dựng tòa nhà",
+            "StartDay": "2021-05-19T08:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-18T08:00:00",
+            "NameWork": "xây dựng thiết kế Trung râm anh ngữ",
+            "StartDay": "2020-02-15T00:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": null,
+            "NameWork": "xây dựng thiết kế Trung râm anh ngữ",
+            "StartDay": null,
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        },
+        {
+            "EndDay": "2021-05-19T10:00:00",
+            "NameWork": "Nâng cấp chức nâng , sửa đổi giao diện người dùng và quản trị viên",
+            "StartDay": "2021-05-18T08:00:00",
+            "NguoiGiao": "Hiếu Nguyễn Quốc",
+            "ListWorkDetail": [],
+            "TypeComplete": 0,
+            "TypeCompletedNote": "Công Việc chưa làm",
+            "DateCongViec": "Công việc chưa bắt đầu",
+            "Date": null
+        }
+    ]
+}
